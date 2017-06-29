@@ -24,8 +24,8 @@ public class Arregloprueba {
 					}
                       for (int i = 0; i < miarreglo.length; i++) {
 					
-					if (menor > mayor) {
-						menor = mayor;
+					if (menor > miarreglo[i]) {
+						menor = miarreglo[i];
 						
 					
 			
