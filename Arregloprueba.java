@@ -5,7 +5,7 @@ public class Arregloprueba {
 	public static void main(String[] args) {
 	
 		int[]miarreglo=new int[3];
-		int menor=0;
+		int menor=0; //INICIALIZANDO AQUI NO MUESTRA "MENOR" PERO SI LO  INICIALIZO EN "menor=1000000" AHI SI PROCEDE A BUSCAR Y MUESTRA EL MENOR 
 		int mayor=0;
 		
 			
